@@ -1,3 +1,5 @@
 # nature-image-transition
 
-Check out my [https://codepen.io/adrianmoo/pen/OYapbB](demo :))
+Check out my [demo :)](https://codepen.io/adrianmoo/pen/OYapbB)
+
+Photo Credit: Vivian Chan
