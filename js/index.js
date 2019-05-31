@@ -18,7 +18,7 @@ function init() {
   var slide = new Slide(width, height, 'out');
 	var l1 = new THREE.ImageLoader();
 	l1.setCrossOrigin('Anonymous');
-	l1.load('https://raw.githubusercontent.com/scriptonofficial/3D-Image-Transition-Project-Files/master/images/winter.jpg', function(img) {
+	l1.load('https://raw.githubusercontent.com/adrianmoo2/nature-image-transition/master/images/butterfly.jpg', function(img) {
 	  slide.setImage(img);
 	})
   root.scene.add(slide);
@@ -26,7 +26,7 @@ function init() {
   var slide2 = new Slide(width, height, 'in');
   var l2 = new THREE.ImageLoader();
 	l2.setCrossOrigin('Anonymous');
-	l2.load('https://raw.githubusercontent.com/scriptonofficial/3D-Image-Transition-Project-Files/master/images/spring.png', function(img) {
+	l2.load('https://raw.githubusercontent.com/adrianmoo2/nature-image-transition/master/images/birds.jpg', function(img) {
 		slide2.setImage(img);
 	})
 	
